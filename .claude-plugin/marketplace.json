@@ -1,0 +1,6 @@
+{
+  "name": "keepwarm",
+  "owner": { "name": "Anton Safin" },
+  "description": "Мод Claude Code: подогрев кэша промпта в простаивающей сессии",
+  "plugins": [ { "name": "keepwarm", "source": "./", "description": "Подогрев кэша промпта в отдельной сессии" } ]
+}
